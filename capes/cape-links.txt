@@ -1,0 +1,2 @@
+cobalt https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/cobalt.png
+minecon2013 https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/minecon2013.png

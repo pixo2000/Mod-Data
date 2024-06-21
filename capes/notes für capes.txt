@@ -1,0 +1,11 @@
+https://skinmc.net/capes/
+^^ da bekommt man capes mit png ^^
+
+in cape links immer
+<capename> <capelink>
+
+in cape zuweisung immer
+<full player uuid> <capename> <playername(nur zur zuweisung)>
+
+capelink immer:
+https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/<capename>.png
