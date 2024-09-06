@@ -1,6 +1,15 @@
 https://skinmc.net/capes/
 ^^ da bekommt man capes mit png ^^
 
+https://onlinepngtools.com/downscale-png
+^^ da kann man sachen downscalen. max größe is 512px256p^^
+
+https://autocape.app/
+^^ da kann man bilder zu cape machen ^^
+
+https://misterlauncher.org/en/capes/
+^^ mehr capes auch größere ^^
+
 in cape links immer
 <capename> <capelink>
 
