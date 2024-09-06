@@ -18,3 +18,9 @@ in cape zuweisung immer
 
 capelink immer:
 https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/<capename>.png
+
+
+
+Todo:
+galaxy cape
+rickroll cape

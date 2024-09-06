@@ -1,3 +1,4 @@
+animegirlred https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/custom/animegirlred.png
 axolotl https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/custom/axolotl.png
 bluecreeper https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/custom/bluecreeper.png
 bluecrown https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/custom/bluecrown.png
