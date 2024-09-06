@@ -3,3 +3,4 @@ minecon2013 https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textu
 developer https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/developer.png
 yellowcrown https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/yellowcrown.png
 animegirl https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/animegirl.png
+qchuyasfreundin https://raw.githubusercontent.com/pixo2000/Mod-Data/main/capes/textures/qchuyasfreundin.png
