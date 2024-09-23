@@ -1,0 +1,21 @@
+# 24 Fuel generators (6000MW)
+
+Input:
+* Fuel 480
+* or
+* Turbo Fuel 180
+
+Output:
+* Power 6000 MW
+
+Size:
+* 4x4 foundations
+
+two input pipes. You can choose input, either Fuel 480 m3/min, or Turbo Fuel 180 m3/min. Output is 6000 MW in both cases.
+
+My recommendation:
+* Fuel - no overclock - bring 2 pipes with sum 480/min fuel(not relevant if it is 300+180, or 240+240...). Connect both input pipes, wait until both fluid buffers have minimum 1000 fuel and then open to full both valves inside building. Enjoy 6000MW
+* Fuel - overclock - as i mentioned, full overclock is not a good idea, my recommendation is to overclock 4 generators with 3 shards and 20 generators with 1 shards. Demand will be increased to 800 fuel per min. Which is one standard oil node(300 oil). Output 10000MW. So for pure node and 20GW you need 2 blueprints little bit overclocked. Same procedure as before, connect fuel, later open both valves. Dont forget to upgrade pipes to MK.2 !!!
+* Turbo fuel - because with full overclock demand is only 450 per min, you dont need to upgrade pipes and also no issue with back flow, so safe to use full overclock to generate 15GW
+
+Ideal combination - standard node + 2x Early game diluted fuel + 1x partially overclocked generators = 10GW of energy
