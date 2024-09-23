@@ -1,0 +1,31 @@
+Output:
+
+    Supercomputer 1,875
+    Computer 10
+    Crystal oscillator 10
+    Circuit board 15
+    High-speed connector 5
+    AI limiter 5
+    Quartz crystal 15
+    Silica 50
+
+Input:
+
+    Caterium ore 182
+    Copper ore 237
+    Limestone 131
+    Raw quartz 334
+    Plastic 127
+    Rubber 132
+    Water 623
+
+Max. consumption 2731 MW
+Size 22x22 foundations
+
+Factory is plug and play, but if you just connect all inputs and power, it will stabilize itself 6-7 hours to get
+Best starting scenario is to connect all inputs and power, but keep output disconnected. Due to manifold and a lot of internal storages,
+it will take almost 3 hours, until all machines will stop working due to full internal storage. Now it is time to connect output belt,
+it will last few minutes, until internal buffers will be flushed and then all machines will works with 100% ratio and keep output per minute mentioned above.
+
+
+You'll have to manage Inventory Space
